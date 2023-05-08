@@ -22,11 +22,8 @@
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)]("https://www.linkedin.com/in/terry-wachuka-a7799b1a6/")
-
-- :man_technologist All of my projects are available at https://github.com/T-erry
-- :mailbox How to reach me terrywachuka10@gmail.com
+- 👨‍💻 All of my projects are available at https://github.com/T-erry
+- 📫 How to reach me terrywachuka10@gmail.com
 
 - 💬 Ask me about *Javascript, REACTJS, RUBY and SQL*
 
