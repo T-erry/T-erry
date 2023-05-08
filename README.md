@@ -19,8 +19,7 @@
 ### :woman_technologist:About Me :
 ---
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-
+- :telescope: I’m currently learning Ruby on Rails.
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 - 👨‍💻 All of my projects are available at https://github.com/T-erry
 - 📫 How to reach me terrywachuka10@gmail.com
