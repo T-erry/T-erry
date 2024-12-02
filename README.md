@@ -23,7 +23,7 @@
 - 👨‍💻 All of my projects are available at https://github.com/T-erry
 - 📫 How to reach me terrywachuka10@gmail.com
 
-- 💬 Ask me about *Javascript, REACTJS, RUBY and SQL*
+- 💬 Ask me about *Javascript, REACTJS, Python and SQL*
 
 - ⚡ Fun fact *I have a keen interest in practicing yoga, and I find it to be an enjoyable and rewarding activity.*
 
