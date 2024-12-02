@@ -20,7 +20,6 @@
 ---
 
 - :telescope: I’m currently learning Python.
-- :zap:  I’m looking to collaborate on Ruby on Rails
 - 👨‍💻 All of my projects are available at https://github.com/T-erry
 - 📫 How to reach me terrywachuka10@gmail.com
 
