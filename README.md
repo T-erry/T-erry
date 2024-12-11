@@ -63,8 +63,8 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
     </a>
 </p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=T-erry&show_icons=true&locale=en&layout=compact" alt="T-erry" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=T-erry&" alt="T-erry" /></p>
-<p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=T-erry&theme=github" alt="T-erry Activity Graph" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=T-erry&show_icons=true&locale=en&layout=compact" alt="T-erry" /><span><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=T-erry&" alt="T-erry" /></p></span></p>
+
+
 
 
