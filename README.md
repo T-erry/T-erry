@@ -1,21 +1,11 @@
 <div id="header" align="center">
 <h1 >Hi there👋, I'm Terry Wachuka</h1>
-<h3> A passionate full-stack developer from Nairobi Kenya</h3>
+<h3> A passionate software developer from Nairobi Kenya</h3>
 </div>
 <div id="header" align="center">
 <img align="center" alt="Coding" width="200" src="https://as1.ftcdn.net/v2/jpg/03/34/92/46/1000_F_334924600_Qtl5awh2cniAh0J1ofm6t37kcAl0JSjZ.jpg">
 </div>
 <br>
-<div id="badges" align="center" margin="100">
-  <a href="https://www.linkedin.com/in/terry-wachuka-a7799b1a6/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://twitter.com/terry_wachuka">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=lizdmukami&label=Profile%20views&color=0e75b6&style=flat" alt="lizdmukami" /> </p>
-
 ### :woman_technologist:About Me :
 ---
 
